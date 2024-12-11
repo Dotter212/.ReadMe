@@ -24,7 +24,7 @@ The second book is Just so stories by Rudyard Kipling. Rudyard Kipling is a Engl
 Both The writers lived around the end of the 19th century and are born in England. The books I choose were in different genres, this could be a factor that influences the frequency of the use of the word gammon. 
 Both of these books are from the project Gutenberg. Gutenberg is a project started by Michael Hart, which aims to distribute free eBooks. The books I choose are old enough that they don’t fall under the copyright law anymore, which is why I can make use of this data without any issues facing the law. 
 
-#Questions/comments: 
+## Questions/comments: 
 - do I need to define lower and higher class? Do I need to argument that my writers are lower/higher class with literature or research from someone else?
 - Is a token ratio to all the words the best option or from the total words from the same word type? (only the nouns) 
 - gammon has two meanings, but most slang words do. 
